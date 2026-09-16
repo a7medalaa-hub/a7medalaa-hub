@@ -1,10 +1,9 @@
 <div align="center">
 
-# 👨‍💻 Ahmed Alaa Elagouri
+# Hi there! 👋I'm Ahmed Alaa 
 
-### Computer Science Graduate | Full-Stack Developer | AI Enthusiast
+ Full-Stack Developer | AI Enthusiast
 
-📍 Tanta, Egypt
 
 </div>
 
