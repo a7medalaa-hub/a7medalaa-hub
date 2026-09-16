@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 AHMED ALAA KHAMIS ELAGOURI
+# 👨‍💻 Ahmed Alaa Elagouri
 
 ### Computer Science Graduate | Full-Stack Developer | AI Enthusiast
 
